@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "class_id": "class_1",
+    "client_name": "Virat Kohli",
+    "client_email": "virat@gmail.com"
+  },
+  {
+    "id": 2,
+    "class_id": "class_1",
+    "client_name": "Aniket",
+    "client_email": "aniket@example.com"
+  }
+]
