@@ -47,18 +47,18 @@ The API allows users to:
 
 ## 📮 API Endpoints & Sample Requests
 
-### GET /classes
+### 1. GET /classes
 
 **Sample Request**
     `curl -X GET http://localhost:8000/classes`
 
-### GET /bookings?email=<client_email>
+### 2. GET /bookings?email=<client_email>
 
 **Sample Request**
     `curl -X GET "http://localhost:8000/bookings?email=aniket@gmail.com"`
 
 
-### POST /bookings
+### 3. POST /bookings
 
 **Request Body:**
     `{
