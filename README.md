@@ -1,6 +1,6 @@
 # 🏋️‍♀️ Fitness Studio Booking API
 
-A simple booking API built using **FastAPI** for a fictional fitness studio that offers classes like **Yoga**, **Zumba**, and **HIIT**.
+A simple booking API built using **FastAPI** for a fictional fitness studio that offers classes like **Yoga**, **Weight Training**, and **Cardio**.
 
 The API allows users to:
 - View available classes
