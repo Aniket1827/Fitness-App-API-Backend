@@ -1,4 +1,4 @@
-from fastapi import FastAPI, HTTPException, Query, APIRouter
+from fastapi import HTTPException, APIRouter
 from app.utilities import crud
 from app.schemas.entities import FitnessClass, Booking
 from app.schemas.models import BookingRead, BookingCreate, FitnessClassRead
